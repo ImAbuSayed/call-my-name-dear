@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/call-my-name-dear/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Call My Name Dear](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/call-my-name-dear/) |
+| **Get License** | [Request Licensing for Call My Name Dear](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/call-my-name-dear/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2196)
 
 ---
 
