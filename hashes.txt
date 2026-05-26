@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Call My Name Dear
+
+This log tracks the cryptographic history and versioning for the song **Call My Name Dear** (call-my-name-dear).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:48:37.246400 | `v1` | `1ee4013a72e165c3dab6047552473b850255887fe093bf28ac05e3b6c1e82428` | `cc5fda1c4a8d386892849fe26913702d0c6a1f7b96c7905e4dedcb8b89139438` | `2026-05-26_call-my-name-dear-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
