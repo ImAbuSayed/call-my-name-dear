@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/call-my-name-dear/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Call My Name Dear](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/call-my-name-dear/) |
+| **Get License** | [Get a Licensing Quote for Call My Name Dear](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/call-my-name-dear/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the moonlight resting on your skin
+> A quiet fire burning deep within
+> Don't need a crowd, don't need a single word
+> Just let my whisper be the only thing that's heard
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
